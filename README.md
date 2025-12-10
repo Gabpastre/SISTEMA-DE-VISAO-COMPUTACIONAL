@@ -41,7 +41,7 @@ Componentes principais:
 - Python 3.9+
 - Acesso à internet (para instalação de pacotes e, se desejado, atualização do Stockfish)
 
-### Dependências Python (exemplo)
+### Dependências
 
 Instalação via pip:
 
